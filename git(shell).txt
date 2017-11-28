@@ -1,0 +1,23 @@
+git(shell)
+
+1. Repo
+2. Commit
+3. Add
+
+1. github.com
+	(a) Repo
+2. Clone
+3. cd (repo.name)
+4. edit(IDE/Editor)
+5. add
+6. Commit
+7. Push
+
+
+Process: 
+$ git config --global user.email "your email"
+$ git config --global user.name "username"
+$ git clone <pasteURL> //clone, then copy then paste
+$ cd <filename>
+
+
